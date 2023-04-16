@@ -1,0 +1,21 @@
+.row{
+    display: flex;
+    justify-content: space-around;
+}
+#searchBtn{
+    border-radius: 40px;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    border: none;
+}
+#hading{
+    border-radius: 40px;
+}
+#table{
+    width: 100%;
+    border: none;
+    
+}
+#tableR{
+    color: white;
+}
